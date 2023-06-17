@@ -13,4 +13,17 @@ I have built PrideAll a one-stop solution for the LGBTQ+ community. It has inclu
 The web application PrideAll is built using the Dart language and the Flutter framework. The same is deployed using GitHub Pages <a href="https://namya13jain.github.io/PrideAll.github.io/#home_page">Click Here</a>
 
 # Glimpses
-<img src="">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/4d1057bf-e4d0-4e47-a3e9-95cf7887ff97">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/484c057a-292b-4cad-aa8a-24e3db7ad5fc">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/72e7c00a-94b4-471e-b234-551e2402329b">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/23c44fc8-e9b9-4f1e-868d-63a69a60905c">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/ec9eb56f-a1be-4ea2-b612-ee175a6b7881">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/47817d43-f6b9-418c-8c9c-18a2d52e1ec6">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/55136e93-be4d-4c36-ba15-8d102a6719b3">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/0ef0073c-4ece-48f5-ba46-95c94f308225">
+
+# Future Scope
+1. In the community forums, I have thought of adding a post section where the users can post blogs, write inspirational stories and discuss on various issues.
+2. Lawyers can be onboarded on our platform to provide legal help to the community people who need them. It would be a win-win for both parties as the lawyers will get clients and our users will get a legal advisor to stand by their side.
+3. I have thought of collaborating with government organizations and NGOs to increase the reach of the PrideAll platform and connect relevant connections and organizations to open the doors to more communities.
+
