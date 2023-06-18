@@ -29,7 +29,7 @@ The web application PrideAll is built using the Dart language and the Flutter fr
 </a>
 
 # Future Scope
-1. In the community forums, I have thought of adding a post section where the users can post blogs, write inspirational stories and discuss on various issues.
+1. In the community forums, I have thought of adding a post section where the users can post blogs, write inspirational stories and discuss various issues, instead of mailing as it is done now.
 2. Lawyers can be onboarded on our platform to provide legal help to the community people who need them. It would be a win-win for both parties as the lawyers will get clients and our users will get a legal advisor to stand by their side.
 3. I have thought of collaborating with government organizations and NGOs to increase the reach of the PrideAll platform and connect relevant connections and organizations to open the doors to more communities.
 
