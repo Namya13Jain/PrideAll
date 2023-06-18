@@ -2,7 +2,7 @@
 The LGBTQ+ community is the most vulnerable and underrepresented community in India. They are excluded from society and not given access to many facilities, rights and respect. So, it is important to educate and help the community in a wholesome manner by providing them with the help, resources, support and respect they deserve.
 
 # PrideAll - One for All, All for One
-I have built PrideAll a one-stop solution for the LGBTQ+ community. It has included features which will help the users to grow personally, professionally and financially by supporting each other. Some of the features of PrideAll are:
+PrideAll is a one-stop solution for the LGBTQ+ community. It has included features which will help the users to grow personally, professionally and financially by supporting each other. Some of the features of PrideAll are:
 
 1. PrideAll also offers numerous opportunities for personal and professional growth. Through our platform, you can discover exciting career prospects, internships, and volunteer opportunities tailored to the LGBTQ+ community. We aim to create an environment where you can find the support you need to succeed in your chosen field while embracing your authentic self.
 2. In addition to facilitating connections, PrideAll is dedicated to empowering the LGBTQ+ community through various resources. Our website provides comprehensive learning materials on national and international laws that affect LGBTQ+ individuals, helping you understand and navigate your rights and protections. We strive to keep you informed about the latest legal developments and advancements in LGBTQ+ rights, ensuring you have the knowledge to advocate for yourself and others.
