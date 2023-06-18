@@ -22,6 +22,11 @@ The web application PrideAll is built using the Dart language and the Flutter fr
 <img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/55136e93-be4d-4c36-ba15-8d102a6719b3">
 <img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/0ef0073c-4ece-48f5-ba46-95c94f308225">
 
+# Demo of the Project
+<a href="https://www.youtube.com" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube Icon" width="48" height="48">
+</a>
+
 # Future Scope
 1. In the community forums, I have thought of adding a post section where the users can post blogs, write inspirational stories and discuss on various issues.
 2. Lawyers can be onboarded on our platform to provide legal help to the community people who need them. It would be a win-win for both parties as the lawyers will get clients and our users will get a legal advisor to stand by their side.
