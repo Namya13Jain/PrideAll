@@ -14,6 +14,8 @@ The web application PrideAll is built using the Dart language and the Flutter fr
 
 # Glimpses
 <img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/4d1057bf-e4d0-4e47-a3e9-95cf7887ff97">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/7e8947eb-b52e-4e31-a7aa-9fe227cdbd8d">
+<img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/ae498852-2614-4ff6-bfd2-80a9f80a06d4">
 <img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/484c057a-292b-4cad-aa8a-24e3db7ad5fc">
 <img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/72e7c00a-94b4-471e-b234-551e2402329b">
 <img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/23c44fc8-e9b9-4f1e-868d-63a69a60905c">
