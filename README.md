@@ -23,6 +23,7 @@ The web application PrideAll is built using the Dart language and the Flutter fr
 <img src="https://github.com/Namya13Jain/PrideAll/assets/100767035/0ef0073c-4ece-48f5-ba46-95c94f308225">
 
 # Demo of the Project
+Click here to see the working of the project :
 <a href="https://www.youtube.com" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube Icon" width="48" height="48">
 </a>
